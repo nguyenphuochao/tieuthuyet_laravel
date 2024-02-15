@@ -1,0 +1,429 @@
+[02-Nov-2023 14:15:34 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:15:34 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:15:42 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:15:42 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:16:53 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:16:53 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:13 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:17:13 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:23 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:23 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:28 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:28 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:46 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:46 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:51 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:18:51 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:03 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:03 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:05 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:05 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:09 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:09 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:14 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:23:14 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:45:57 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:45:57 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:45:59 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:45:59 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:46:09 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:46:09 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:51:17 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:51:17 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:58:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:58:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:58:21 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 14:58:21 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:27:13 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:27:13 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:27:25 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:27:25 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:30:41 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:30:41 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:34 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:34 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:50 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:50 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:55 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:33:55 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:00 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:00 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:03 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:03 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:19 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:40:19 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:01 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:01 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:02 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#4 /ho in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
+[02-Nov-2023 15:57:07 UTC] PHP Fatal error:  Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [PsrExt\Log\LoggerInterface] is not instantiable while building [App\Exceptions\Handler, App\Exceptions\Handler, App\Exceptions\Handler]. in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:748
+Stack trace:
+#0 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('PsrExt\\Log\\Logg...', Array)
+#1 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('PsrExt\\Log\\Logg...', Array)
+#2 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('PsrExt\\Log\\Logg...')
+#3 /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(Refl in /home/tie37705/public_html/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 748
